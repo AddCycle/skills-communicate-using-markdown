@@ -17,3 +17,18 @@ Some code below in javascript :
 ``` javascript
 console.log("Hello world!");
 ```
+
+Some example of minecraft forge modding tasks list :
+- [x] Add a new mineral
+- [ ] Add wrench item
+- [ ] Add a new dimension
+
+These are nested :
+- [x] Add a new mineral
+  - [x] Revamp it's generation
+  - [ ] Add a new dimension
+     
+Some emojis :
+- ✅ Add a new mineral
+  - ✅ Revamp it's generation
+  - ❌ Add a new dimension
